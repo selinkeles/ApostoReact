@@ -17,6 +17,8 @@ You can see all the residents and their informations of a specific location by c
 
 `cd directory_name`
 
+`cd myApp`
+
 
 Then you should install all dependencies in the project:
 
